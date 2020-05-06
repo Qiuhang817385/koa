@@ -1,0 +1,30 @@
+{
+  "name": "12-Login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alicloud/sms-sdk": "^1.1.6",
+    "axios": "^0.19.2",
+    "blueimp-md5": "^2.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-bouncer": "^6.0.4",
+    "koa-jwt": "^3.6.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^8.0.8",
+    "koa-session": "^5.13.1",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6",
+    "moment": "^2.24.0",
+    "querystring": "^0.2.0",
+    "trek-captcha": "^0.4.0"
+  }
+}
